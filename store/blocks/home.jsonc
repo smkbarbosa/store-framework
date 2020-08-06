@@ -41,6 +41,7 @@
       "blockClass": "metal"
     }
   },
+  
   "flex-layout.row": {
     "children": [
       "info-card#rethink", 
