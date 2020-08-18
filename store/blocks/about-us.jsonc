@@ -31,7 +31,7 @@
     },
     "image#about-us": {
         "props":{
-            "src": "https://appliancetheme.vteximg.com.br/cozinha-about-us.png",
+            "src": "https://appliancetheme.vteximg.com.br/arquivos/cozinha-about-us.png",
             "maxHeight": "600px"
         }
     }
